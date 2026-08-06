@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.mandeep.user.service.UserService.UserServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.33 s -- in com.mandeep.user.service.UserService.UserServiceApplicationTests
