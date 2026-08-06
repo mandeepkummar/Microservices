@@ -1,0 +1,7 @@
+com\lcwd\rating\RatingService\exceptions\ResourceNotFoundException.class
+com\lcwd\rating\RatingService\repositories\RatingRepository.class
+com\lcwd\rating\RatingService\services\impl\RatingServiceImpl.class
+com\lcwd\rating\RatingService\entities\Rating.class
+com\lcwd\rating\RatingService\RatingServiceApplication.class
+com\lcwd\rating\RatingService\controllers\RatingController.class
+com\lcwd\rating\RatingService\services\RatingService.class
